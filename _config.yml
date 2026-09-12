@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Xi'an, Shaanxi Province"
   employer         : "Xi'an Jiaotong University"
-  uri              : # URL
+  url              : https://george-tsui.github.io
   email            : "15153133697@stu.xjtu.edu.cn" 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
